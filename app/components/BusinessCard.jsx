@@ -34,7 +34,7 @@ export default function BusinessCard() {
 						<h2 className='text-3xl font-bold mb-4'>Mindaugas</h2>
 						{/* <p className='mb-2'>Email: john@example.com</p> */}
 						<Link
-							href='tel:+11234567890'
+							href='tel:+37060188882'
 							onClick={e => e.stopPropagation()}
 							className='hover:underline focus:underline'
 						>
